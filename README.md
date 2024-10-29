@@ -1,6 +1,6 @@
 # 🔶 SagoWare 2.0 yayında (10/29/2024)!
 # 🔷 [`Discord`](https://discord.gg/T57eVdeqFe) sunucumuza katılmayı unutmayın.
-# ✔ [`Tıkla`](https://discord.gg/T57eVdeqFe) indir.
+# ✔ [`Tıkla`](https://github.com/sagoware/SagoWare/raw/refs/heads/main/SagoWare.Loader.exe) indir.
 
 ### Combat
 
